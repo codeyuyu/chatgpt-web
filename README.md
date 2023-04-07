@@ -44,7 +44,7 @@
 
 ### Deploy With Netlify
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codeyuyu/chatgpt-web#OPENAI_API_KEY=&HTTPS_PROXY=&OPENAI_API_BASE_URL=&HEAD_SCRIPTS=&SECRET_KEY=&OPENAI_API_MODEL=&SITE_PASSWORD=)
+[![Deploy with Netlify](https://raw.githubusercontent.com/codeyuyu/chatgpt-web/3b3e3c81c8b1ad16936ffa9ea22974c6092655c0/public/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codeyuyu/chatgpt-web#OPENAI_API_KEY=&HTTPS_PROXY=&OPENAI_API_BASE_URL=&HEAD_SCRIPTS=&SECRET_KEY=&OPENAI_API_MODEL=&SITE_PASSWORD=)
 
 **Step-by-step deployment tutorial:**
 
